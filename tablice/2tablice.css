@@ -1,0 +1,10 @@
+table, tr, td {
+    border-collapse: collapse;
+    border: 5px dashed red;
+}
+
+td {
+    text-align: right;
+    vertical-align: bottom;
+    height: 30px;
+}

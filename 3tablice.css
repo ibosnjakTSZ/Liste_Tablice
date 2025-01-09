@@ -1,0 +1,12 @@
+table, tr, td {
+    border-collapse: collapse;
+    border: 5px dashed red;
+}
+
+tr:hover {
+    background-color: lightgray;
+}
+
+td:hover {
+    background-color: gray;
+}
